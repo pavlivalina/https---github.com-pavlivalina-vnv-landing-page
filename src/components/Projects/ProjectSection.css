@@ -1,0 +1,22 @@
+.projects-section{
+  margin-top: -1px;
+  padding-top: 10px;
+  background-color: rgb(0, 0, 0);
+  height: max-content;
+
+}
+
+
+.projects-title{
+  padding-top: 20px;
+  text-align: center;
+}
+
+.projects-section h1{
+  color: white;
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 25px;
+  font-weight: normal;
+}

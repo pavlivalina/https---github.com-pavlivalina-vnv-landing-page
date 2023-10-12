@@ -1,0 +1,18 @@
+.reasons{
+  color: white;
+  list-style: none;
+  padding: 0;
+}
+
+.reason{
+  display: flex;
+  text-align: left;
+  align-items: center;
+  opacity: 1;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.icon-desc{
+  margin-right: 8px;
+}

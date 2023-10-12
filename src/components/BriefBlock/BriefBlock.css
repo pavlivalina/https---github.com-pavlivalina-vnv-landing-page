@@ -1,0 +1,38 @@
+.brief-block-section{
+  margin-top: -23px;
+  background-color: rgb(0, 0, 0);
+  height: fit-content;
+
+}
+
+.brief-title{
+  color: rgb(0, 0, 0);
+  margin-top: 10px;
+  margin-bottom: 0;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.brief-block{
+  height: fit-content;
+  background-color: white;
+  padding: 10px;
+  border-radius: 25px 25px 0 0;
+  text-align: center;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.fill-now-button{
+  padding: 10px;
+  background-color: rgb(255, 255, 255);
+  border: 2px solid black;
+  border-radius: 15px;
+  font-size: 17px;
+}
+
+.fill-now-button:hover,
+.fill-now-button:active{
+  background-color: black;
+  color: white;
+}

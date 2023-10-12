@@ -1,0 +1,16 @@
+.footer{
+  background-color: black;
+  
+}
+
+.social-media{
+  margin: auto;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.socials-icon{
+  margin: 30px;
+}

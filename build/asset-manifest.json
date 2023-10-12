@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9df8a37f.css",
+    "main.js": "/static/js/main.fe7e9ecd.js",
+    "static/media/site2.png": "/static/media/site2.566ff32e0b53bbf25342.png",
+    "static/media/site1.png": "/static/media/site1.0ee9f7d5bd0f75414cbf.png",
+    "static/media/site3.png": "/static/media/site3.925ee849672c05592352.png",
+    "static/media/vnv-logo.png": "/static/media/vnv-logo.6328696c9eac305aeaef.png",
+    "static/media/solution_9746252.png": "/static/media/solution_9746252.38743a3b7d8d80a19581.png",
+    "static/media/achievement_9746327.png": "/static/media/achievement_9746327.118b2ebc639d299d3a82.png",
+    "index.html": "/index.html",
+    "main.9df8a37f.css.map": "/static/css/main.9df8a37f.css.map",
+    "main.fe7e9ecd.js.map": "/static/js/main.fe7e9ecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df8a37f.css",
+    "static/js/main.fe7e9ecd.js"
+  ]
+}

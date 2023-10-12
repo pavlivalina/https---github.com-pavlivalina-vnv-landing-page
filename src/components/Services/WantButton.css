@@ -1,0 +1,19 @@
+.button-want {
+  margin: auto;
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 8px;
+  background-color: black;
+  border: 1px solid white;
+  color: #FFFFFF;
+  width:100px;
+  font-size: 20px;
+  padding: 10px;
+  
+}
+
+.button-want:active,
+.button-want:hover{
+  color:black;
+  background-color: white;
+}
